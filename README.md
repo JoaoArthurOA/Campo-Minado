@@ -1,2 +1,3 @@
 # Campo-Minado
 Exercício criar campo minado em C# e português estruturado
+Campo minado é um jogo que consiste em, a partir da lógica, descobrir onde estão as bombas em um tabuleiro 6x6 ( 36 quadrados ), 6 desses quadrados serão "bombas".  A primeira jogada é selecionar um dos quadrados , e então, uma área ao redor dele será revelada. Outros quadrados terão números dentro deles, que representam a quantidade de bombas próximas daquele quadrado, podendo ser qualquer ponto ao redor. O objetivo do jogador é evitar de clicar nas bombas e revelar todos os quadrados, até que no final, sobre apenas os quadrados bomba não revelados.
