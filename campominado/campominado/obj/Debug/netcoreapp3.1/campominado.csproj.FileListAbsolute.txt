@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\campominado\campominado\bin\Debug\netcoreapp3.1\campominado.exe
+C:\Users\Usuario\source\repos\campominado\campominado\bin\Debug\netcoreapp3.1\campominado.deps.json
+C:\Users\Usuario\source\repos\campominado\campominado\bin\Debug\netcoreapp3.1\campominado.runtimeconfig.json
+C:\Users\Usuario\source\repos\campominado\campominado\bin\Debug\netcoreapp3.1\campominado.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\campominado\campominado\bin\Debug\netcoreapp3.1\campominado.dll
+C:\Users\Usuario\source\repos\campominado\campominado\bin\Debug\netcoreapp3.1\campominado.pdb
+C:\Users\Usuario\source\repos\campominado\campominado\obj\Debug\netcoreapp3.1\campominado.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\campominado\campominado\obj\Debug\netcoreapp3.1\campominado.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\campominado\campominado\obj\Debug\netcoreapp3.1\campominado.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\campominado\campominado\obj\Debug\netcoreapp3.1\campominado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\campominado\campominado\obj\Debug\netcoreapp3.1\campominado.dll
+C:\Users\Usuario\source\repos\campominado\campominado\obj\Debug\netcoreapp3.1\campominado.pdb
+C:\Users\Usuario\source\repos\campominado\campominado\obj\Debug\netcoreapp3.1\campominado.genruntimeconfig.cache
